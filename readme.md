@@ -1,5 +1,5 @@
 ## 技术栈
- Spring Boot, Snmp4j
+ Spring Boot, Snmp4j, Vue, Element UI
 ## Description
 1. 在学习snmp协议的时候实现的,类似于Snmp Mib browser 中mib信息管理的部分的一个web实现
 2. 底层使用Snmp4j框架实现snmp的通信
